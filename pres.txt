@@ -1,1 +1,5 @@
-Développeur backend .NET avec 9 ans d’expérience dans des secteurs variés : SIG, immobilier, commerce, comptabilité et assurance agricole. J’ai participé à plusieurs projets SaaS et intégrations avec des systèmes tiers, avec un fort intérêt pour l’architecture logicielle et l’optimisation des performances. J’interviens aussi ponctuellement en front-end (React) selon les besoins. En dehors du travail, je pratique la musculation 4 fois par semaine et j’aime les jeux vidéo, notamment ceux de stratégie et d’exploration. Actuellement, j’interviens sur la mise en place du projet ERELIO, en renforçant l’architecture et en optimisant les performances.
+Développeur fullstack .NET avec plus de 9 ans d’expérience dans des secteurs variés : immobilier/foncier, e-commerce, comptabilité, assurance agricole, SIG et géologie.
+Spécialisé en .NET/React, j’ai contribué à plusieurs projets SaaS et intégré divers systèmes tiers. J’interviens actuellement sur la mise en place du projet ERELIO.
+Toujours en veille technologique, je m’intéresse particulièrement à l’architecture logicielle et aux bonnes pratiques du craftsmanship.
+En dehors du travail, je pratique la musculation et suis passionné par les jeux vidéo, notamment ceux de stratégie, d’action et de survie.
+Mon objectif est d’apporter expertise et efficacité à l’équipe.
